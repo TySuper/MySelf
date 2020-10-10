@@ -1,0 +1,134 @@
+# -*- coding: utf-8 -*-
+Running tests... 
+----------------------------------------------------------------------
+ testStep (test_case.XinstorLogin01.XinstorLogin) ... FAIL (0.035000)s
+
+======================================================================
+FAIL [0.035000s]: test_case.XinstorLogin01.XinstorLogin.testStep
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\zhenghongli\2.锟斤拷锟斤拷\XinStorInterfaceTest\src\test_case\XinstorLogin01.py", line 11, in testStep
+    self.assertEqual(2011, mylog.status_code, msg='Login Failed')
+AssertionError: Login Failed
+
+----------------------------------------------------------------------
+Ran 1 test in 0:00:00
+
+FAILED
+ (Failures=1)
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+ testStep (test_case.XinstorLogin01.XinstorLogin) ... FAIL (0.036000)s
+
+======================================================================
+FAIL [0.036000s]: test_case.XinstorLogin01.XinstorLogin.testStep
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\zhenghongli\2.个人\XinStorInterfaceTest\src\test_case\XinstorLogin01.py", line 11, in testStep
+    self.assertEqual(2011, mylog.status_code, msg='Login Failed')
+AssertionError: Login Failed
+
+----------------------------------------------------------------------
+Ran 1 test in 0:00:00
+
+FAILED
+ (Failures=1)
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+ testStep (test_case.XinstorLogin01.XinstorLogin) ... FAIL (0.032000)s
+
+======================================================================
+FAIL [0.032000s]: test_case.XinstorLogin01.XinstorLogin.testStep
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\zhenghongli\2.个人\XinStorInterfaceTest\src\test_case\XinstorLogin01.py", line 11, in testStep
+    self.assertEqual(2011, mylog.status_code, msg='Login Failed')
+AssertionError: Login Failed
+
+----------------------------------------------------------------------
+Ran 1 test in 0:00:00
+
+FAILED
+ (Failures=1)
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+ testStep (test_case.XinstorLogin01.XinstorLogin) ... OK (0.039000)s
+
+----------------------------------------------------------------------
+Ran 1 test in 0:00:00
+
+OK
+
+
+
+Generating HTML reports... 
+reports\TestResults_test_case.XinstorLogin01.XinstorLogin_2019-10-11_16-34-34.html
+
+Running tests... 
+----------------------------------------------------------------------
+ testStep (test_case.XinstorLogin01.XinstorLogin) ... FAIL (0.030000)s
+
+======================================================================
+FAIL [0.030000s]: test_case.XinstorLogin01.XinstorLogin.testStep
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\zhenghongli\2.个人\XinStorInterfaceTest\src\test_case\XinstorLogin01.py", line 11, in testStep
+    self.assertEqual(2011, mylog.status_code, msg='Login Failed')
+AssertionError: Login Failed
+
+----------------------------------------------------------------------
+Ran 1 test in 0:00:00
+
+FAILED
+ (Failures=1)
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+ testStep (test_case.XinstorLogin01.XinstorLogin) ... FAIL (0.041000)s
+
+======================================================================
+FAIL [0.041000s]: test_case.XinstorLogin01.XinstorLogin.testStep
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\zhenghongli\2.个人\XinStorInterfaceTest\src\test_case\XinstorLogin01.py", line 11, in testStep
+    self.assertEqual(2011, mylog.status_code, msg='Login Failed')
+AssertionError: Login Failed
+
+----------------------------------------------------------------------
+Ran 1 test in 0:00:00
+
+FAILED
+ (Failures=1)
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+ testStep (test_case.XinstorLogin01.XinstorLogin) ... FAIL (0.039000)s
+
+======================================================================
+FAIL [0.039000s]: test_case.XinstorLogin01.XinstorLogin.testStep
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\zhenghongli\2.个人\XinStorInterfaceTest\src\test_case\XinstorLogin01.py", line 11, in testStep
+    self.assertEqual(2011, mylog.status_code, msg='Login Failed')
+AssertionError: Login Failed
+
+----------------------------------------------------------------------
+Ran 1 test in 0:00:00
+
+FAILED
+ (Failures=1)
+
+Generating HTML reports... 
