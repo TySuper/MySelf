@@ -15,7 +15,7 @@ now = time.strftime("%Y_%m_%d %H-%M")  # 获取发送邮件的时间
 # app = str(read_conf.get_email('app'))  # 从配置文件中读取，邮件类型
 # addressee = read_conf.get_email('addressee')  # 从配置文件中读取，邮件收件人
 # cc = read_conf.get_email('cc')  # 从配置文件中读取，邮件抄送人
-mail_path = os.path.join(getpathInfo.get_Path(), 'report', 'report.html')  # 获取测试报告路径
+mail_path = os.path.join(getpath.get_path(), 'report', 'report.html')  # 获取测试报告路径
 logger = logger
 
 class SendEmail:
